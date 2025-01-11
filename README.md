@@ -23,6 +23,16 @@ Project objectives:
 * Creating a functional and engaging game experience.
 * Demonstration of basic 2D game development in C++ using OpenGL, including sound and text rendering.
 
+### Controls
+
+| Keyboard | Action     |
+|:---------|:----------:|
+| ESC      | Game pause |
+| W/ArrowUp| Rotate     |
+| S/ArrowDown| Move Down  |
+| A/ArrowLeft        | Move Left  |
+| D/ArrowRight        | Move Right |
+
 ### Build
 
 ### Installing the necessary tools 
