@@ -4,10 +4,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Snake OpenGL Game</h3>
+  <h3 align="center">Tetris OpenGL Game</h3>
 
   <p align="center">
-    A simple snake game in C++ and modern OpenGL
+    A simple tetris game in C++ and modern OpenGL
   </p>
 </div>
 
@@ -16,13 +16,12 @@
 
 [![Product Name Screen Shot][product-screenshot]]
 
-This project is a classic Snake game implemented in the C++ programming language using the OpenGL graphics library. The goal of the project is to demonstrate the basic principles of working with OpenGL and creating an interactive 2D game.
+This project is a classic Tetris game implemented in C++ using OpenGL for graphics. It demonstrates fundamental 2D game development principles using OpenGL and goes beyond by incorporating sound effects using OpenAL and rendering text using FreeType.
 
 Project objectives:
-
-* Practical application of OpenGL and C++ knowledge.
-* Creating a functional and fun game.
-* Demonstration of the basics of developing 2D games in C++ using OpenGL.
+* Practical application of OpenGL, C++, OpenAL, and FreeType knowledge.
+* Creating a functional and engaging game experience.
+* Demonstration of basic 2D game development in C++ using OpenGL, including sound and text rendering.
 
 ### Build
 
@@ -34,7 +33,7 @@ Project objectives:
 ### Build project
 1. Clone the repo
    ```sh
-   git clone https://github.com/dryerem19/SnakeGL
+   git clone https://github.com/dryerem19/TetrisGL
    ```
 2. Navigate to the root directory of the project and run the following command
    ```sh
