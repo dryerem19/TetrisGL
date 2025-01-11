@@ -1,0 +1,15 @@
+{
+    "dependencies": [
+        "openal-soft",
+        "libsndfile",
+        "freetype",
+        "glfw3",
+        "glad",
+        "stb",
+        "glm",
+        {
+            "name": "imgui",
+            "features": [ "glfw-binding", "opengl3-binding" ]
+        }
+    ]
+}
